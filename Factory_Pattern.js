@@ -1,5 +1,3 @@
-let instance = null
-
 class Car {
     constructor(doors, engine, color) {
         this.doors = doors;
