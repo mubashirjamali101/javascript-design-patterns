@@ -29,9 +29,9 @@ class SuvFactory {
   createCar(type) {
     switch (type) {
       case "cx5":
-        return new Car(4, "V6", "grey");
+        return new SUV(4, "V6", "grey");
       case "sante fe":
-        return new Car(2, "V8", "reg");
+        return new SUV(2, "V8", "reg");
     }
   }
 }
