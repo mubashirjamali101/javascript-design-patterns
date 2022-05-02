@@ -1,4 +1,4 @@
-newsfeeds = [
+const newsfeeds = [
   {
     type: "Top Headlines",
     query: "source=bbc-news",
