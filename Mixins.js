@@ -25,7 +25,7 @@ const carMixin = {
   // carStatus is a new method being defined out of class Car declaration
   carStatus() {
     return console.log(
-      `${this.name}\'s ${this.engine} engine is ${this.engineStatus}`
+      `${this.name}'s ${this.engine} engine is ${this.engineStatus}`
     );
   },
 };
