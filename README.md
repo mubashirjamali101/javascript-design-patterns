@@ -1,5 +1,7 @@
 # javascript-design-patterns
 
+[![CodeFactor](https://www.codefactor.io/repository/github/mubashirjamali101/javascript-design-patterns/badge/master)](https://www.codefactor.io/repository/github/mubashirjamali101/javascript-design-patterns/overview/master)
+
 Are you learning javascript or any other programming langauge?
 The best place to start learning a programming (first and then) language, is to start doing design patterns.
 
